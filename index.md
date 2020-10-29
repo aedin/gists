@@ -1,5 +1,7 @@
 <script src="https://gist.github.com/aedin/4bc4644318ecb40ba43af08de7ace833.js"></script>
 
+
+{% gist 4bc4644318ecb40ba43af08de7ace833 %}
 ## Welcome to a Couple of R Code Snippets
 
 
