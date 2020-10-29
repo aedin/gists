@@ -1,9 +1,9 @@
 ## Welcome to a Couple of R Code Snippets
 
 
-### Markdown
+### Code for UL Talks
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+<script src="https://gist.github.com/aedin/4bc4644318ecb40ba43af08de7ace833.js"></script>
 
 ```markdown
 Syntax highlighted code block
